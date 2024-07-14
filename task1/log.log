@@ -1,0 +1,5 @@
+2024-07-13 14:45:24,366 DEBUG Using proactor: IocpProactor
+2024-07-13 14:45:29,995 ERROR Error copying fdgxfjc to jvb: [Errno 2] No such file or directory: 'fdgxfjc'
+2024-07-13 14:45:29,995 INFO Folder fdgxfjc successfully copied to jvb
+2024-07-13 14:46:32,283 DEBUG Using proactor: IocpProactor
+2024-07-13 14:46:40,231 ERROR Error copying tcyvub to hk: [Errno 2] No such file or directory: 'tcyvub'
